@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
 
-You can use the [editor on GitHub](https://github.com/RickvanDijk1/PortFolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is ir. Rick van Dijk, alumni of the faculty of Architecture and the Built Environment of the TU Delft. I graduated in 2020 with a Cum Laude degree, with a research to the implication of Topology Optimization in architecture. Since then I'm working at a engineering firm where I do modelling work as well as some workflow optimizations. This website will show some of my projects, both in the university and in my working career.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
