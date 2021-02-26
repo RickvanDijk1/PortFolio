@@ -11,7 +11,7 @@ _In my free time I like to consider myself somewhat of a nerd, having interests 
 ## Projects
 These pages will further show my projects
 
-# [Graduation](url)
+### [Graduation](url)
 
 
 ```markdown
