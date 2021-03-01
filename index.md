@@ -11,15 +11,15 @@ _In my free time I'm having interests in game development, programming and some 
 ## Projects
 These pages will further show my projects
 
-### [Graduation](url)
+### [Graduation](https://rickvandijk1.github.io/PortFolio/Graduation)
 
-### [Masters](url)
+### [Masters](https://rickvandijk1.github.io/PortFolio/Masters)
 
-### [Career](url)
+### [Career](https://rickvandijk1.github.io/PortFolio/Career)
 
-### [Bachelors](url)
+### [Bachelors](https://rickvandijk1.github.io/PortFolio/Bachelors)
 
-### [Contact](url)
+### [Contact](https://rickvandijk1.github.io/PortFolio/Contact)
 
 
 
