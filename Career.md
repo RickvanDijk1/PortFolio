@@ -3,7 +3,7 @@
 ## Pieters Bouwtechniek
 _sep 2020 - now_
 
-In september 2020 I joined Pieters Bouwtechniek as a Junior Modeller with the intend to explore the company and grow into the role of BIM manager. I worked at projects such as de Nieuwe Hallen, The Hague, the HQ of Evides, Rotterdam and the existing museum Boijmans van Beuningen, Rotterdam. In these and many other projects I learned the ins and outs of BIM modelling and I learned a lot about structural engineering. Reinforcing concrete in entire projects, researching old archives and checking the architects choices in the early stages of the design, where my daily activities. 
+In september 2020 I joined Pieters Bouwtechniek as a Junior Modeller with the intend to explore the company and grow into the role of BIM manager. I worked at projects such as de Nieuwe Hallen, The Hague, the headquarters of an office in Rotterdam and the existing museum Boijmans van Beuningen, Rotterdam. In these and many other projects I learned the ins and outs of BIM modelling and I learned a lot about structural engineering. Reinforcing concrete in entire projects, researching old archives and checking the architects choices in the early stages of the design, where my daily activities. 
 
 ![References](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Examples.png?raw=true "Project examples")
 
