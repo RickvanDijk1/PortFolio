@@ -5,11 +5,11 @@ _sep 2020 - now_
 
 In september 2020 I joined Pieters Bouwtechniek as a Junior Modeller with the intend to explore the company and grow into the role of BIM manager. I worked at projects such as de Nieuwe Hallen, The Hague, the HQ of Evides, Rotterdam and the existing museum Boijmans van Beuningen, Rotterdam. In these and many other projects I learned the ins and outs of BIM modelling and I learned a lot about structural engineering. Reinforcing concrete in entire projects, researching old archives and checking the architects choices in the early stages of the design, where my daily activities. 
 
-![References](https://github.com/RickvanDijk1/PortFolio/assets/img/Examples.png "Project examples")
+![References](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Examples.png "Project examples")
 
 After growing familliar with Revit I started to dive into Dynamo. I feel that Dynamo has great potential because it combines computational power to the most used BIM software. In our office I saw many possibilities where I could optimize the workflow by implementing Dynamo. At my first large project I (HQ of Evides, Rotterdam) I started to map out actions that I would repeatedly do and replace them with small Dynamo scripts. These were very simple scripts that would allow me to rotate multiple objects, automaticly make hollow-core slabs, tag all the elements in a sheet or to automaticly fix foundation poles. 
 
-![Dynamo examples](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Portfolio_Dynamo.gif "Dynamo examples")
+![Dynamo examples](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Portfolio_Dynamo.gif?raw=true "Dynamo examples")
 
 I also found out that we spend a lot of time controlling the project and fixing small errors. I started a workflow in Dynamo that would controll the project in many ways. It would check all the beams and columns if their name would corrospond with their section, if columns are attatched to another beam or check if offsets and levels are identical in identical elements. An list of suggested fixes was shown as an output and those could automaticly be fixed. Until today, this is still a WIP as I am still working on it on the sides while working on projects.
 
