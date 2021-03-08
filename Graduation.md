@@ -18,3 +18,23 @@ Often Gradient Descent is used to find the minimal value and to use that, the de
 
 # Topology Optimization in Architecture
 
+In my research I wanted to find ways how the constraints could represent architectural systems. First, the algorithm was changed to work in 3D, following the paper of Deetman, 2019. Deetman changed the algorithm to work in 3D, generating a new stiffness-matrix and having a new system to count elements and Degrees Of Freedom. I translated Deetman's code to Python so that it could be implemented in Rhino (Rhino is needed so that node IDs could be generated for voids, supports and loads). This generated some nice shapes as following:
+
+PICS
+
+In architectural problems some other problems arise, as in architectural problems most forces come from the geometry itself. Placing a voxel will not always improve the stiffness, as it can also generate new forces which decrease the stiffness. Density-dependent forces have to be added to the algorithm, which are new forces on nodes where the element around the nodes is existent. Formula (3) shows how this can be mathematicly described using a sigmoid function. This doesn't seem to be really hard, but the derivative also has to change. Previously the force was preset, but now the force is dependent of the density, the force should be included in the derivative. Now the derivative looks like:
+
+Derivative
+
+Implementing this in the algorithm shows another problem, as the graph per element is no longer linear. This means that using Gradient Descent will no longer always give the minimum of the system. Another optimizer is used, called the Method of Moving Asymptotes.
+
+Solving the system now still relies on a force, which is not always the case in architectural problems. In stead of a forces in the system, the constraint in buildings is more that each void has a roof over itself. Or in other words; for each void the sum of the elements in the column (above the void) should be larger than 1. In the system we want to punish values that are not 1 or close to 1, so another sigmoid is implemented. In the algorithm at the end of each loop, if the sum is not larger than 1, all the elements above the void are set to a certain value. Self-weight will then make sure the roof is made and optimized.
+
+Pics?
+
+# Examples
+
+Eventually the algorithm was tested on several TOY problems. The algorithm had its flaws, but overall quite promising results were generated. Also, the Haus am Horn was used as an input, which was very interesting to see what happened. Domes were created over the rooms and also arcs were generated above the doors. 
+
+Pics
+
