@@ -17,8 +17,6 @@ These pages will further show my projects
 
 ### [Career](https://rickvandijk1.github.io/PortFolio/Career)
 
-### [Bachelors](https://rickvandijk1.github.io/PortFolio/Bachelors)
-
 ### [Contact](https://rickvandijk1.github.io/PortFolio/Contact)
 
 
