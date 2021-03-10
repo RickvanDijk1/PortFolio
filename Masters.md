@@ -10,7 +10,7 @@ In Earthy students will dive into generating geometry for masonry buildings in r
 
 ![Compliance](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Ruleset-Gif.gif?raw=true "Ruleset-Gif")
 
-To translate this to a buildable Hammam, the layout was extruded and 
+To translate this to a buildable Hammam, the layout was extruded and ...
 
 
 ## Robotic Manufacturing
