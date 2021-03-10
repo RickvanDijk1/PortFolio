@@ -10,7 +10,7 @@ The main idea behind topology optimization is to calculate what voxels (or pixel
 
 ### Previous research
 
-In topology optimization, first Finite Element Analysis is performed on the system and the displacements of all the elements is calculated. To simplify the system, assumed is that the size of each voxel is 1 and that the material behaves identical in all directions. The displacements are needed to optimize the system, as the goal is to maximize the stiffness. In this optimization problem, in stead of maximizing the stiffness, the compliance is minimized. The compliance is defined as how much the system can move and is written as follows for each element:
+In topology optimization, first Finite Element Analysis is performed on the system and the displacements of all the elements is calculated. To simplify the system, assumed is that the size of each voxel is 1 and that the material behaves identical in all directions. The displacements are needed to optimize the system, as the goal is to maximize the stiffness. In this optimization problem, in stead of maximizing the stiffness, the compliance is minimized. The compliance is defined as how much the system can move and is written as in formula (1):
 
 ![Compliance](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_1.png?raw=true "Project examples")
 [Larger image](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_1.png)
