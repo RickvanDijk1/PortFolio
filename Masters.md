@@ -10,7 +10,9 @@ In Earthy students will dive into generating geometry for masonry buildings in r
 
 ![Compliance](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Ruleset-Gif.gif?raw=true "Ruleset-Gif")
 
-To translate this to a buildable Hammam, the layout was extruded and ...
+To translate this to a buildable Hammam, the layout was extruded to make usable rooms. In this step, not only the shape was important, but also how this would be constructed on site. After experimenting with rectangular bricks, it was found that triangular bricks would support the hexagonal grid better. Makeability was important as the Hammam should be constructed by local people. A method was designed how the walls and its openings could be made, more info in [this](https://rickvandijk1.github.io/Earthy/walls/) and [this](https://rickvandijk1.github.io/Earthy/openings/)link. The domes were more challenging, as they should be dynamicly relaxed and makeable. To make the domes, we followed the traditional method of making domes with muqarnas, small elements in similar shapes that make the dome. The elements can be seen in the picture below, which was a model we made. Lastly we made a second roof to improve its structural performance, as well as to improve the rain flow from the roof. 
+
+There were a few other interesting features of our Hammam that were developed by dynamicly relaxing the shape. The stoa around the garden was made by dynamicly relaxing the shape with points at the garden and at the wall. The thickness of the stoa was dependent on the stresses in the material. Secondly more information on the systematic generation of our shape using pseudocode, more information can be found [here](https://rickvandijk1.github.io/Earthy/forming/).
 
 
 ## Robotic Manufacturing
