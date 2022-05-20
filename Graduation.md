@@ -1,6 +1,6 @@
 # Architectural lessons from Topology Optimization
 
-This page shows my work for my graduation, where I researched the topic of Topology Optimization and its possible implementations in architecture. This research was performed under the supervision of P. Nourian (_Faculty of Architecture and the Built Environment_) and M. Langelaar (_Faculty of 3Me_). A link to my work in the TU Delft repository can be found [here](http://resolver.tudelft.nl/uuid:5dc60528-701c-496c-90a2-a804d7a7aada).
+This page shows my work for my graduation, where I researched the topic of Topology Optimization and its possible implementations in architecture. This research was performed under the supervision of P. Nourian (_Faculty of Architecture and the Built Environment_) and M. Langelaar (_Faculty of 3Me_). A link to my work in the TU Delft repository can be found [**here**](http://resolver.tudelft.nl/uuid:5dc60528-701c-496c-90a2-a804d7a7aada).
 
 This page will summarize my process and the results of this research. 
 
@@ -57,4 +57,4 @@ Lastly, the question is “Can we generate buildings using Topology Optimization
 
 To answer the question; yes, I think eventually Topology Optimization could be a method to generate buildings. The process itself is directly linked to FEA and even more constraints can be added in the optimizer itself. However, more research is needed to generate more useful geometry, that eventually could also be tested in structural calculations. Essential for this useful geometry is the resolution of the voxels, which allow for more accurate results. One other constraint the could be added is the voids themselves; instead of starting with cubic voids, starting with a 2D layout could be better, where the optimizer is allowed to generate optimal voids as well. Concluding, Topology Optimization could generate and shape masonry architecture, but a higher resolution and more optimal configurations are needed.
 
-[*Back to main*](https://github.com/RickvanDijk1/PortFolio)
+[**Back to main**](https://github.com/RickvanDijk1/PortFolio)
