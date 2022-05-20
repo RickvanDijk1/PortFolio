@@ -37,3 +37,5 @@ Following my personal interests in game design I followed a course at the facult
 ## Other Courses
 
 During my masters I followed other courses on structural design, building physics and architectural design. In Extreme I designed a new library for the country of Sint Maarten, taking in account extreme weather conditions. In Bucky Lab we created an alternative way of heating a hospital using old CPU coolers. This turned out to be not very effective, but the advantage was that rooms could be heated locally, resulting in a lower heat demand. 
+
+[*Back to main*](https://github.com/RickvanDijk1/PortFolio)
