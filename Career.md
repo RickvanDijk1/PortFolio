@@ -32,4 +32,4 @@ _Oct 2017 - Apr 2019_
 
 During my bachelors I wanted to acquire experience at an office in the built environment. I found a job near my hometown where I assisted the sales department of a distributor of heat-pumps. My activities were to make cooling/heating calculations, design heat-pump systems and answer questions that many installers had. I worked at hotels, schools, single houses and offices. Also during my job, I helped in cleaning up customer databases and databases containing specifications of the heat-pumps. As these databases were based on Excel, I gained proficiency with Excel and macros which I used to automate the process. 
 
-[*Back to main*](https://github.com/RickvanDijk1/PortFolio)
+[**Back to main**](https://github.com/RickvanDijk1/PortFolio)
