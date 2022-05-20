@@ -26,13 +26,13 @@ Architectural cases are different than cases in mechanical engineering, as most 
 
 Previously the force was pre-set and constant, so the derivative of the force was 0. Now that the force is dependent on the density, the force should be included in the derivative. Rewriting the derivative previously found, but without the derivative of the force being 0, gives a new derivative, as shown in figure 3. When looking at this formula, one can see that the result of the derivative is no longer always negative. The graph of an element is no long monotonic and therefore Gradient Descent can no longer be used. Therefore, another optimizer is implemented, called the Method of Moving Asymptotes. 
 
-![Selfweight](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_Optimization.gif?raw=true "Selfweight")
-[Larger image](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_Optimization.gif)
+![Selfweight](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_Self.png?raw=true "Selfweight")
+[Larger image](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_Self.png)
 
 Solving the system now still relies on a pre-set force, which is usually not the case in architectural problems. Instead of forces in the system, the constraint in architectural cases is that each void has to have a roof over itself. Or in other words; for each void, the sum of the elements in the column (above the void) should be larger than 1. Figure 4 shows the roof-constraint working, for columns where there is no roof, the algorithm sets all the values above the void to a certain value. Note that “grey” values are punished, in order to get black and white results. Another sigmoid function is implemented to that values that are grey are considered as a 0 and values close to 1 are considered as a 1. After many iterations, the shape is black and white and shows to be a dynamically relaxed structure. However, it is very thin. The optimizer will minimize the volume and increasing the thickness will generate more forces.
 
-![Roof Constraint](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_Roof.png?raw=true "Project examples")
-[Larger image](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_Roof.png)
+![Roof Constraint](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_Optimization.gif?raw=true "Project examples")
+[Larger image](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Graduation_Optimization.gif)
 
 When this would be built, it can be quickly seen that any forces on the roof will make it collapse. Another type of density-dependent force has to be added, namely a snow-load on the roof. This is a force that is placed on the highest element, which should make sure the roof will not fail when forces are placed on it. In other words; the element will gain a force if the sum of the elements above it, including itself, is equal to 1.  This can be mathematically described using a smooth-Heaviside function, which sets the value of y to 1 if the value of x is in the range of 0.5 and 1.5. 
 The total forces can now be written as the sum of a preset force, the self-weight and the snow-load.  Summarized, the derivative can then be taken from this and written as follows:
