@@ -8,4 +8,4 @@ Here you can find me on LinkedIn, or check my CV:
 
 ### [LinkedIn](https://www.linkedin.com/in/rick-van-dijk-a41184110/)
 
-### [CV](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/CV_RickvanDijk_24-02-2021.pdf)
+### [CV](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/CV_RickvDijk.pdf)
