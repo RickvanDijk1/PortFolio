@@ -13,7 +13,7 @@ From my beginning, I used Dynamo to optimize my own workflows. I feel that Dynam
 ![Python examples](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Portfolio_Python.gif?raw=true "Python examples")
 [Larger image](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Portfolio_Python.gif)
 
-After half a year I joined the Developer team, which is a very small team of 2 colleagues in Amsterdam, to assist them in the software they write under the name of PBToolbox. Mostly we write add-ins (in C#) for our designers to use in Revit projects. Here I developed a deep knowledge of the RevitAPI, WinForms, and how to collaborate in a team (in Azure DevOps). As the team was very small, I reviewed and improved a lot of older code. Examples of software I wrote are:
+After half a year I joined the Developer team, which is a small team of 2 colleagues in Amsterdam, to assist them in the software they write under the name of PBToolbox. Mostly we write add-ins (in C#) for our designers to use in Revit projects. Here I developed a deep knowledge of the RevitAPI, WinForms, and how to collaborate in a team (in Azure DevOps). As the team was very small, I reviewed and improved a lot of older code. Examples of software I wrote are:
 
 - *Modelchecker*; In projects, a lot of time is spent verifying the data in a BIM-model. Therefore I wrote a program that verifies the data in a model and displays elements that do not conform to BIM- or Pieters-protocol. This included a UI that displays errors and warnings and lets users easily focus on elements.
 - *Automatic reinforcements*; I wrote several functions that automatically make reinforcements in all selected beams. 
@@ -32,4 +32,4 @@ _Oct 2017 - Apr 2019_
 
 During my bachelor's I wanted to acquire experience in an office in the built environment. I found a job near my hometown where I assisted the sales department of a distributor of heat pumps. My activities were to make cooling/heating calculations, design heat-pump systems, and answer questions that many installers had. I worked at hotels, schools, single houses, and offices. Also during my job, I helped in cleaning up customer databases and databases containing specifications of the heat pumps. As these databases were based on Excel, I gained proficiency with Excel and macros which I used to automate the process. 
 
-[**Back to main**](https://github.com/RickvanDijk1/PortFolio)
+[**Back to main**](https://rickvandijk1.github.io/PortFolio)
