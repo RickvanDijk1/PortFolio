@@ -57,4 +57,4 @@ Lastly, the question is “Can we generate buildings using Topology Optimization
 
 To answer the question; yes, I think eventually Topology Optimization could be a method to generate buildings. The process itself is directly linked to FEA and even more constraints can be added in the optimizer itself. However, more research is needed to generate more useful geometry, that eventually could also be tested in structural calculations. Essential for this useful geometry is the resolution of the voxels, which allow for more accurate results. One other constraint the could be added is the voids themselves; instead of starting with cubic voids, starting with a 2D layout could be better, where the optimizer is allowed to generate optimal voids as well. Concluding, Topology Optimization could generate and shape masonry architecture, but a higher resolution and more optimal configurations are needed.
 
-[**Back to main**](https://github.com/RickvanDijk1/PortFolio)
+[**Back to main**](https://rickvandijk1.github.io/PortFolio)
