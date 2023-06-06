@@ -31,9 +31,6 @@ After half a year I joined the Developer team, which is a small team of 2 collea
 - *Exporting data*; In some projects, assemblies are used to create part lists; With our tools, we made it easy to export Revit Data to Excel.
 - *Third-party platforms*; I researched implementations of third-party apps to increase workflows. Mostly between SCIA and Revit and using apps like Speckle.
 
-![Python examples](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Portfolio_Python.gif?raw=true "Python examples")
-[Larger image](https://github.com/RickvanDijk1/PortFolio/blob/gh-pages/assets/img/Portfolio_Python.gif)
-
 In February of 2021, I started to assist a graduate student at our firm and help in her project. Her research is towards the previously described balconies and in finding a standardized shape that can be parametrized. In the research, she opts to create a family that can be edited in Dynamo to create the concrete slab and then add premade elements (anchors, openings, and gains) to it in Dynamo as well. In February of 2022, I started to assist another graduate student, as he researched 3D reinforcements. As he looked at all aspects, I helped him in the automation part of reinforcements.
 
 ## Alklima Warmtepompen
