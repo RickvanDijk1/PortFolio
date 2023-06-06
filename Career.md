@@ -1,7 +1,16 @@
 # Career
 
+## Movares
+_dec 2022 - now_
+
+In December 2022 I joined the Grasshopper team of Movares as a Digital Engineer. Our team developed a method to automate the calculations on concrete bridges. This involved 
+
+The team, which were mostly civil engineers, wanted their code to be more robust and scalable. That was my main role in the team. I refactored a lot of code; making code faster, scalable and readable. Also I started our own Grasshopper plugin; _Moose_. Moose contains several useful (for our team) plugins. I implemented a Report Generator that was created by colleagues in a Component, wrote components that performed permutations and components that handled data and math a lot quicker than Grasshopper. Also, using the full power of the Grasshopper API, I wrote components that interacted and reacted with loading the file, automatic reading in Rhino data and displaying them in checklists.
+
+However after three months, due to the nitrogen crisis in the Netherlands, the activities of our team (and 3 other teams) was set on pause. After properly stopping our work, our team was divided over different projects. Now, I assist different teams with issues with complex Rhino Geometry and Revit data. Developing good workflows for exporting complex Rhino geometry to Revit, and writing scripts to optimize the geometry. Also, many teams were having issues with data, and I wrote several scripts to fill / remove / add data or to automatically open and edit families in a project.
+
 ## Pieters Bouwtechniek
-_sep 2020 - now_
+_sep 2020 - nov 2022_
 
 In September 2020 I joined Pieters Bouwtechniek as Engineer. I worked mostly on large housing projects as designer or coordinating. In these and many other projects, I learned the ins and outs of BIM designing and I learned a lot about structural engineering. Reinforcing concrete in entire projects, researching old archives, and structurally checking the architect's choices in the early stages of the design, were my daily activities. I always continued to be involved in projects, growing into a coordinating role.
 
